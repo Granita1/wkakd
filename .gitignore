@@ -1,2 +1,2 @@
-_G.Key = "55_kucuPheT""
+_G.Key = "55_kucuPheT"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
